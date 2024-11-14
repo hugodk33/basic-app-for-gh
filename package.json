@@ -1,5 +1,6 @@
 {
   "name": "basic-app-gh-page",
+  "homepage": "https://hugodk33.github.io/basic-app-for-gh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
